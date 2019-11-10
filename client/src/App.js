@@ -5,7 +5,6 @@ import Search from "./pages/Search";
 import Nav from "./components/Nav";
 import { Container} from "./components/Grid";
 
-import './App.css';
 
 class App extends Component {
   render() {
