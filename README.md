@@ -7,7 +7,8 @@ React-based Google Books Search app. This SPA (Single Page Application) uses [re
 
 **required npm packages**
 
-mongoose, axios, react-router-dom, react-toastify
+mongoose, axios, react-router-dom
+
 
 **Database**
 
