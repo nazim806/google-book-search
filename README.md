@@ -31,6 +31,10 @@ Books should have each of the following fields:
 
 **Technologies Implemented:**
 
+HTML5
+
+CSS3
+
 Bootstrap
 
 Express
