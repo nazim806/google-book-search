@@ -3,7 +3,7 @@
 Google book search Link: https://damp-reaches-94807.herokuapp.com/
 
 **Overview**
-React-based Google Books Search app. This SPA (Single Page Application) uses [react-router-dom]to navigate, hide and show your React components without changing the route within Express. Using helper/util functions and React lifecycle methods to query and display books based on user searches, this is a full MERN stack application allows users to save books to a database to refer to at a later date. Built with Node, Express and MongoDB, and React-Toastify for custom alerts.
+This is a React-based Google Books Search app. This SPA (Single Page Application) uses [react-router-dom]to navigate, hide and show your React components without changing the route within Express. Using helper/util functions and React lifecycle methods to query and display books based on user searches, this is a full MERN stack application allows users to save books to a database to refer to at a later date. Built with Node, Express and MongoDB, and React-Toastify for custom alerts.
 
 **Required npm packages**
 
@@ -35,14 +35,14 @@ Books should have each of the following fields:
 
 **CSS3**
 
-**Bootstrap**
+**Bootstrap** design
 
-**Express**
+**Express** server
 
-**Node.js**
+**Node.js** back-end
 
-**React**
+**React** fornt-end
 
-**MongoDB**
+**MongoDB** database
 
-**Heroku**
+**Heroku** for deployment.
